@@ -1,4 +1,10 @@
-{
+[
+    {
     "username": "volca",
     "data": "bilibili"
-}
+    },
+    {
+    "username": "lyf",
+    "data": "edge"
+    }
+]
